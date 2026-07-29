@@ -1,0 +1,1804 @@
+Statistics for models of type 'dcm' (statistics type: All parameter estimates) 
+LRMT - Flexible response # 1: amplitude
+LRHT - Flexible response # 1: amplitude
+HRLT - Flexible response # 1: amplitude
+HRHT - Flexible response # 1: amplitude
+MRMT - Flexible response # 1: amplitude
+MRLT - Flexible response # 1: amplitude
+HRMT - Flexible response # 1: amplitude
+MRHT - Flexible response # 1: amplitude
+LRLT - Flexible response # 1: amplitude
+HRMT - Flexible response # 1: amplitude
+LRLT - Flexible response # 1: amplitude
+MRMT - Flexible response # 1: amplitude
+MRLT - Flexible response # 1: amplitude
+HRHT - Flexible response # 1: amplitude
+LRMT - Flexible response # 1: amplitude
+LRHT - Flexible response # 1: amplitude
+HRLT - Flexible response # 1: amplitude
+MRHT - Flexible response # 1: amplitude
+HRMT - Flexible response # 1: amplitude
+LRLT - Flexible response # 1: amplitude
+LRHT - Flexible response # 1: amplitude
+MRLT - Flexible response # 1: amplitude
+MRHT - Flexible response # 1: amplitude
+LRMT - Flexible response # 1: amplitude
+HRHT - Flexible response # 1: amplitude
+HRLT - Flexible response # 1: amplitude
+MRMT - Flexible response # 1: amplitude
+LRMT - Flexible response # 1: amplitude
+MRLT - Flexible response # 1: amplitude
+HRMT - Flexible response # 1: amplitude
+HRHT - Flexible response # 1: amplitude
+MRMT - Flexible response # 1: amplitude
+MRHT - Flexible response # 1: amplitude
+LRLT - Flexible response # 1: amplitude
+LRHT - Flexible response # 1: amplitude
+HRLT - Flexible response # 1: amplitude
+MRHT - Flexible response # 1: amplitude
+HRLT - Flexible response # 1: amplitude
+LRHT - Flexible response # 1: amplitude
+LRMT - Flexible response # 1: amplitude
+MRLT - Flexible response # 1: amplitude
+MRMT - Flexible response # 1: amplitude
+HRHT - Flexible response # 1: amplitude
+HRMT - Flexible response # 1: amplitude
+LRLT - Flexible response # 1: amplitude
+HRHT - Flexible response # 1: amplitude
+MRLT - Flexible response # 1: amplitude
+LRMT - Flexible response # 1: amplitude
+MRHT - Flexible response # 1: amplitude
+LRLT - Flexible response # 1: amplitude
+HRMT - Flexible response # 1: amplitude
+LRHT - Flexible response # 1: amplitude
+HRLT - Flexible response # 1: amplitude
+MRMT - Flexible response # 1: amplitude
+MRMT - Flexible response # 1: amplitude
+HRLT - Flexible response # 1: amplitude
+LRMT - Flexible response # 1: amplitude
+MRLT - Flexible response # 1: amplitude
+MRHT - Flexible response # 1: amplitude
+LRLT - Flexible response # 1: amplitude
+HRHT - Flexible response # 1: amplitude
+HRMT - Flexible response # 1: amplitude
+LRHT - Flexible response # 1: amplitude
+HRMT - Flexible response # 1: amplitude
+MRLT - Flexible response # 1: amplitude
+MRHT - Flexible response # 1: amplitude
+HRLT - Flexible response # 1: amplitude
+LRHT - Flexible response # 1: amplitude
+MRMT - Flexible response # 1: amplitude
+LRLT - Flexible response # 1: amplitude
+LRMT - Flexible response # 1: amplitude
+HRHT - Flexible response # 1: amplitude
+HRLT - Flexible response # 1: amplitude
+MRHT - Flexible response # 1: amplitude
+LRLT - Flexible response # 1: amplitude
+MRMT - Flexible response # 1: amplitude
+LRHT - Flexible response # 1: amplitude
+LRMT - Flexible response # 1: amplitude
+HRHT - Flexible response # 1: amplitude
+MRLT - Flexible response # 1: amplitude
+HRMT - Flexible response # 1: amplitude
+MRLT - Flexible response # 1: amplitude
+LRHT - Flexible response # 1: amplitude
+HRLT - Flexible response # 1: amplitude
+MRMT - Flexible response # 1: amplitude
+LRLT - Flexible response # 1: amplitude
+LRMT - Flexible response # 1: amplitude
+MRHT - Flexible response # 1: amplitude
+HRMT - Flexible response # 1: amplitude
+HRHT - Flexible response # 1: amplitude
+LRMT - Flexible response # 2: amplitude
+LRHT - Flexible response # 2: amplitude
+HRLT - Flexible response # 2: amplitude
+HRHT - Flexible response # 2: amplitude
+MRMT - Flexible response # 2: amplitude
+MRLT - Flexible response # 2: amplitude
+HRMT - Flexible response # 2: amplitude
+MRHT - Flexible response # 2: amplitude
+LRLT - Flexible response # 2: amplitude
+HRMT - Flexible response # 2: amplitude
+LRLT - Flexible response # 2: amplitude
+MRMT - Flexible response # 2: amplitude
+MRLT - Flexible response # 2: amplitude
+HRHT - Flexible response # 2: amplitude
+LRMT - Flexible response # 2: amplitude
+LRHT - Flexible response # 2: amplitude
+HRLT - Flexible response # 2: amplitude
+MRHT - Flexible response # 2: amplitude
+HRMT - Flexible response # 2: amplitude
+LRLT - Flexible response # 2: amplitude
+LRHT - Flexible response # 2: amplitude
+MRLT - Flexible response # 2: amplitude
+MRHT - Flexible response # 2: amplitude
+LRMT - Flexible response # 2: amplitude
+HRHT - Flexible response # 2: amplitude
+HRLT - Flexible response # 2: amplitude
+MRMT - Flexible response # 2: amplitude
+LRMT - Flexible response # 2: amplitude
+MRLT - Flexible response # 2: amplitude
+HRMT - Flexible response # 2: amplitude
+HRHT - Flexible response # 2: amplitude
+MRMT - Flexible response # 2: amplitude
+MRHT - Flexible response # 2: amplitude
+LRLT - Flexible response # 2: amplitude
+LRHT - Flexible response # 2: amplitude
+HRLT - Flexible response # 2: amplitude
+MRHT - Flexible response # 2: amplitude
+HRLT - Flexible response # 2: amplitude
+LRHT - Flexible response # 2: amplitude
+LRMT - Flexible response # 2: amplitude
+MRLT - Flexible response # 2: amplitude
+MRMT - Flexible response # 2: amplitude
+HRHT - Flexible response # 2: amplitude
+HRMT - Flexible response # 2: amplitude
+LRLT - Flexible response # 2: amplitude
+HRHT - Flexible response # 2: amplitude
+MRLT - Flexible response # 2: amplitude
+LRMT - Flexible response # 2: amplitude
+MRHT - Flexible response # 2: amplitude
+LRLT - Flexible response # 2: amplitude
+HRMT - Flexible response # 2: amplitude
+LRHT - Flexible response # 2: amplitude
+HRLT - Flexible response # 2: amplitude
+MRMT - Flexible response # 2: amplitude
+MRMT - Flexible response # 2: amplitude
+HRLT - Flexible response # 2: amplitude
+LRMT - Flexible response # 2: amplitude
+MRLT - Flexible response # 2: amplitude
+MRHT - Flexible response # 2: amplitude
+LRLT - Flexible response # 2: amplitude
+HRHT - Flexible response # 2: amplitude
+HRMT - Flexible response # 2: amplitude
+LRHT - Flexible response # 2: amplitude
+HRMT - Flexible response # 2: amplitude
+MRLT - Flexible response # 2: amplitude
+MRHT - Flexible response # 2: amplitude
+HRLT - Flexible response # 2: amplitude
+LRHT - Flexible response # 2: amplitude
+MRMT - Flexible response # 2: amplitude
+LRLT - Flexible response # 2: amplitude
+LRMT - Flexible response # 2: amplitude
+HRHT - Flexible response # 2: amplitude
+HRLT - Flexible response # 2: amplitude
+MRHT - Flexible response # 2: amplitude
+LRLT - Flexible response # 2: amplitude
+MRMT - Flexible response # 2: amplitude
+LRHT - Flexible response # 2: amplitude
+LRMT - Flexible response # 2: amplitude
+HRHT - Flexible response # 2: amplitude
+MRLT - Flexible response # 2: amplitude
+HRMT - Flexible response # 2: amplitude
+MRLT - Flexible response # 2: amplitude
+LRHT - Flexible response # 2: amplitude
+HRLT - Flexible response # 2: amplitude
+MRMT - Flexible response # 2: amplitude
+LRLT - Flexible response # 2: amplitude
+LRMT - Flexible response # 2: amplitude
+MRHT - Flexible response # 2: amplitude
+HRMT - Flexible response # 2: amplitude
+HRHT - Flexible response # 2: amplitude
+LRMT - Flexible response # 1: peak latency
+LRHT - Flexible response # 1: peak latency
+HRLT - Flexible response # 1: peak latency
+HRHT - Flexible response # 1: peak latency
+MRMT - Flexible response # 1: peak latency
+MRLT - Flexible response # 1: peak latency
+HRMT - Flexible response # 1: peak latency
+MRHT - Flexible response # 1: peak latency
+LRLT - Flexible response # 1: peak latency
+HRMT - Flexible response # 1: peak latency
+LRLT - Flexible response # 1: peak latency
+MRMT - Flexible response # 1: peak latency
+MRLT - Flexible response # 1: peak latency
+HRHT - Flexible response # 1: peak latency
+LRMT - Flexible response # 1: peak latency
+LRHT - Flexible response # 1: peak latency
+HRLT - Flexible response # 1: peak latency
+MRHT - Flexible response # 1: peak latency
+HRMT - Flexible response # 1: peak latency
+LRLT - Flexible response # 1: peak latency
+LRHT - Flexible response # 1: peak latency
+MRLT - Flexible response # 1: peak latency
+MRHT - Flexible response # 1: peak latency
+LRMT - Flexible response # 1: peak latency
+HRHT - Flexible response # 1: peak latency
+HRLT - Flexible response # 1: peak latency
+MRMT - Flexible response # 1: peak latency
+LRMT - Flexible response # 1: peak latency
+MRLT - Flexible response # 1: peak latency
+HRMT - Flexible response # 1: peak latency
+HRHT - Flexible response # 1: peak latency
+MRMT - Flexible response # 1: peak latency
+MRHT - Flexible response # 1: peak latency
+LRLT - Flexible response # 1: peak latency
+LRHT - Flexible response # 1: peak latency
+HRLT - Flexible response # 1: peak latency
+MRHT - Flexible response # 1: peak latency
+HRLT - Flexible response # 1: peak latency
+LRHT - Flexible response # 1: peak latency
+LRMT - Flexible response # 1: peak latency
+MRLT - Flexible response # 1: peak latency
+MRMT - Flexible response # 1: peak latency
+HRHT - Flexible response # 1: peak latency
+HRMT - Flexible response # 1: peak latency
+LRLT - Flexible response # 1: peak latency
+HRHT - Flexible response # 1: peak latency
+MRLT - Flexible response # 1: peak latency
+LRMT - Flexible response # 1: peak latency
+MRHT - Flexible response # 1: peak latency
+LRLT - Flexible response # 1: peak latency
+HRMT - Flexible response # 1: peak latency
+LRHT - Flexible response # 1: peak latency
+HRLT - Flexible response # 1: peak latency
+MRMT - Flexible response # 1: peak latency
+MRMT - Flexible response # 1: peak latency
+HRLT - Flexible response # 1: peak latency
+LRMT - Flexible response # 1: peak latency
+MRLT - Flexible response # 1: peak latency
+MRHT - Flexible response # 1: peak latency
+LRLT - Flexible response # 1: peak latency
+HRHT - Flexible response # 1: peak latency
+HRMT - Flexible response # 1: peak latency
+LRHT - Flexible response # 1: peak latency
+HRMT - Flexible response # 1: peak latency
+MRLT - Flexible response # 1: peak latency
+MRHT - Flexible response # 1: peak latency
+HRLT - Flexible response # 1: peak latency
+LRHT - Flexible response # 1: peak latency
+MRMT - Flexible response # 1: peak latency
+LRLT - Flexible response # 1: peak latency
+LRMT - Flexible response # 1: peak latency
+HRHT - Flexible response # 1: peak latency
+HRLT - Flexible response # 1: peak latency
+MRHT - Flexible response # 1: peak latency
+LRLT - Flexible response # 1: peak latency
+MRMT - Flexible response # 1: peak latency
+LRHT - Flexible response # 1: peak latency
+LRMT - Flexible response # 1: peak latency
+HRHT - Flexible response # 1: peak latency
+MRLT - Flexible response # 1: peak latency
+HRMT - Flexible response # 1: peak latency
+MRLT - Flexible response # 1: peak latency
+LRHT - Flexible response # 1: peak latency
+HRLT - Flexible response # 1: peak latency
+MRMT - Flexible response # 1: peak latency
+LRLT - Flexible response # 1: peak latency
+LRMT - Flexible response # 1: peak latency
+MRHT - Flexible response # 1: peak latency
+HRMT - Flexible response # 1: peak latency
+HRHT - Flexible response # 1: peak latency
+LRMT - Flexible response # 2: peak latency
+LRHT - Flexible response # 2: peak latency
+HRLT - Flexible response # 2: peak latency
+HRHT - Flexible response # 2: peak latency
+MRMT - Flexible response # 2: peak latency
+MRLT - Flexible response # 2: peak latency
+HRMT - Flexible response # 2: peak latency
+MRHT - Flexible response # 2: peak latency
+LRLT - Flexible response # 2: peak latency
+HRMT - Flexible response # 2: peak latency
+LRLT - Flexible response # 2: peak latency
+MRMT - Flexible response # 2: peak latency
+MRLT - Flexible response # 2: peak latency
+HRHT - Flexible response # 2: peak latency
+LRMT - Flexible response # 2: peak latency
+LRHT - Flexible response # 2: peak latency
+HRLT - Flexible response # 2: peak latency
+MRHT - Flexible response # 2: peak latency
+HRMT - Flexible response # 2: peak latency
+LRLT - Flexible response # 2: peak latency
+LRHT - Flexible response # 2: peak latency
+MRLT - Flexible response # 2: peak latency
+MRHT - Flexible response # 2: peak latency
+LRMT - Flexible response # 2: peak latency
+HRHT - Flexible response # 2: peak latency
+HRLT - Flexible response # 2: peak latency
+MRMT - Flexible response # 2: peak latency
+LRMT - Flexible response # 2: peak latency
+MRLT - Flexible response # 2: peak latency
+HRMT - Flexible response # 2: peak latency
+HRHT - Flexible response # 2: peak latency
+MRMT - Flexible response # 2: peak latency
+MRHT - Flexible response # 2: peak latency
+LRLT - Flexible response # 2: peak latency
+LRHT - Flexible response # 2: peak latency
+HRLT - Flexible response # 2: peak latency
+MRHT - Flexible response # 2: peak latency
+HRLT - Flexible response # 2: peak latency
+LRHT - Flexible response # 2: peak latency
+LRMT - Flexible response # 2: peak latency
+MRLT - Flexible response # 2: peak latency
+MRMT - Flexible response # 2: peak latency
+HRHT - Flexible response # 2: peak latency
+HRMT - Flexible response # 2: peak latency
+LRLT - Flexible response # 2: peak latency
+HRHT - Flexible response # 2: peak latency
+MRLT - Flexible response # 2: peak latency
+LRMT - Flexible response # 2: peak latency
+MRHT - Flexible response # 2: peak latency
+LRLT - Flexible response # 2: peak latency
+HRMT - Flexible response # 2: peak latency
+LRHT - Flexible response # 2: peak latency
+HRLT - Flexible response # 2: peak latency
+MRMT - Flexible response # 2: peak latency
+MRMT - Flexible response # 2: peak latency
+HRLT - Flexible response # 2: peak latency
+LRMT - Flexible response # 2: peak latency
+MRLT - Flexible response # 2: peak latency
+MRHT - Flexible response # 2: peak latency
+LRLT - Flexible response # 2: peak latency
+HRHT - Flexible response # 2: peak latency
+HRMT - Flexible response # 2: peak latency
+LRHT - Flexible response # 2: peak latency
+HRMT - Flexible response # 2: peak latency
+MRLT - Flexible response # 2: peak latency
+MRHT - Flexible response # 2: peak latency
+HRLT - Flexible response # 2: peak latency
+LRHT - Flexible response # 2: peak latency
+MRMT - Flexible response # 2: peak latency
+LRLT - Flexible response # 2: peak latency
+LRMT - Flexible response # 2: peak latency
+HRHT - Flexible response # 2: peak latency
+HRLT - Flexible response # 2: peak latency
+MRHT - Flexible response # 2: peak latency
+LRLT - Flexible response # 2: peak latency
+MRMT - Flexible response # 2: peak latency
+LRHT - Flexible response # 2: peak latency
+LRMT - Flexible response # 2: peak latency
+HRHT - Flexible response # 2: peak latency
+MRLT - Flexible response # 2: peak latency
+HRMT - Flexible response # 2: peak latency
+MRLT - Flexible response # 2: peak latency
+LRHT - Flexible response # 2: peak latency
+HRLT - Flexible response # 2: peak latency
+MRMT - Flexible response # 2: peak latency
+LRLT - Flexible response # 2: peak latency
+LRMT - Flexible response # 2: peak latency
+MRHT - Flexible response # 2: peak latency
+HRMT - Flexible response # 2: peak latency
+HRHT - Flexible response # 2: peak latency
+LRMT - Flexible response # 1: dispersion
+LRHT - Flexible response # 1: dispersion
+HRLT - Flexible response # 1: dispersion
+HRHT - Flexible response # 1: dispersion
+MRMT - Flexible response # 1: dispersion
+MRLT - Flexible response # 1: dispersion
+HRMT - Flexible response # 1: dispersion
+MRHT - Flexible response # 1: dispersion
+LRLT - Flexible response # 1: dispersion
+HRMT - Flexible response # 1: dispersion
+LRLT - Flexible response # 1: dispersion
+MRMT - Flexible response # 1: dispersion
+MRLT - Flexible response # 1: dispersion
+HRHT - Flexible response # 1: dispersion
+LRMT - Flexible response # 1: dispersion
+LRHT - Flexible response # 1: dispersion
+HRLT - Flexible response # 1: dispersion
+MRHT - Flexible response # 1: dispersion
+HRMT - Flexible response # 1: dispersion
+LRLT - Flexible response # 1: dispersion
+LRHT - Flexible response # 1: dispersion
+MRLT - Flexible response # 1: dispersion
+MRHT - Flexible response # 1: dispersion
+LRMT - Flexible response # 1: dispersion
+HRHT - Flexible response # 1: dispersion
+HRLT - Flexible response # 1: dispersion
+MRMT - Flexible response # 1: dispersion
+LRMT - Flexible response # 1: dispersion
+MRLT - Flexible response # 1: dispersion
+HRMT - Flexible response # 1: dispersion
+HRHT - Flexible response # 1: dispersion
+MRMT - Flexible response # 1: dispersion
+MRHT - Flexible response # 1: dispersion
+LRLT - Flexible response # 1: dispersion
+LRHT - Flexible response # 1: dispersion
+HRLT - Flexible response # 1: dispersion
+MRHT - Flexible response # 1: dispersion
+HRLT - Flexible response # 1: dispersion
+LRHT - Flexible response # 1: dispersion
+LRMT - Flexible response # 1: dispersion
+MRLT - Flexible response # 1: dispersion
+MRMT - Flexible response # 1: dispersion
+HRHT - Flexible response # 1: dispersion
+HRMT - Flexible response # 1: dispersion
+LRLT - Flexible response # 1: dispersion
+HRHT - Flexible response # 1: dispersion
+MRLT - Flexible response # 1: dispersion
+LRMT - Flexible response # 1: dispersion
+MRHT - Flexible response # 1: dispersion
+LRLT - Flexible response # 1: dispersion
+HRMT - Flexible response # 1: dispersion
+LRHT - Flexible response # 1: dispersion
+HRLT - Flexible response # 1: dispersion
+MRMT - Flexible response # 1: dispersion
+MRMT - Flexible response # 1: dispersion
+HRLT - Flexible response # 1: dispersion
+LRMT - Flexible response # 1: dispersion
+MRLT - Flexible response # 1: dispersion
+MRHT - Flexible response # 1: dispersion
+LRLT - Flexible response # 1: dispersion
+HRHT - Flexible response # 1: dispersion
+HRMT - Flexible response # 1: dispersion
+LRHT - Flexible response # 1: dispersion
+HRMT - Flexible response # 1: dispersion
+MRLT - Flexible response # 1: dispersion
+MRHT - Flexible response # 1: dispersion
+HRLT - Flexible response # 1: dispersion
+LRHT - Flexible response # 1: dispersion
+MRMT - Flexible response # 1: dispersion
+LRLT - Flexible response # 1: dispersion
+LRMT - Flexible response # 1: dispersion
+HRHT - Flexible response # 1: dispersion
+HRLT - Flexible response # 1: dispersion
+MRHT - Flexible response # 1: dispersion
+LRLT - Flexible response # 1: dispersion
+MRMT - Flexible response # 1: dispersion
+LRHT - Flexible response # 1: dispersion
+LRMT - Flexible response # 1: dispersion
+HRHT - Flexible response # 1: dispersion
+MRLT - Flexible response # 1: dispersion
+HRMT - Flexible response # 1: dispersion
+MRLT - Flexible response # 1: dispersion
+LRHT - Flexible response # 1: dispersion
+HRLT - Flexible response # 1: dispersion
+MRMT - Flexible response # 1: dispersion
+LRLT - Flexible response # 1: dispersion
+LRMT - Flexible response # 1: dispersion
+MRHT - Flexible response # 1: dispersion
+HRMT - Flexible response # 1: dispersion
+HRHT - Flexible response # 1: dispersion
+LRMT - Flexible response # 2: dispersion
+LRHT - Flexible response # 2: dispersion
+HRLT - Flexible response # 2: dispersion
+HRHT - Flexible response # 2: dispersion
+MRMT - Flexible response # 2: dispersion
+MRLT - Flexible response # 2: dispersion
+HRMT - Flexible response # 2: dispersion
+MRHT - Flexible response # 2: dispersion
+LRLT - Flexible response # 2: dispersion
+HRMT - Flexible response # 2: dispersion
+LRLT - Flexible response # 2: dispersion
+MRMT - Flexible response # 2: dispersion
+MRLT - Flexible response # 2: dispersion
+HRHT - Flexible response # 2: dispersion
+LRMT - Flexible response # 2: dispersion
+LRHT - Flexible response # 2: dispersion
+HRLT - Flexible response # 2: dispersion
+MRHT - Flexible response # 2: dispersion
+HRMT - Flexible response # 2: dispersion
+LRLT - Flexible response # 2: dispersion
+LRHT - Flexible response # 2: dispersion
+MRLT - Flexible response # 2: dispersion
+MRHT - Flexible response # 2: dispersion
+LRMT - Flexible response # 2: dispersion
+HRHT - Flexible response # 2: dispersion
+HRLT - Flexible response # 2: dispersion
+MRMT - Flexible response # 2: dispersion
+LRMT - Flexible response # 2: dispersion
+MRLT - Flexible response # 2: dispersion
+HRMT - Flexible response # 2: dispersion
+HRHT - Flexible response # 2: dispersion
+MRMT - Flexible response # 2: dispersion
+MRHT - Flexible response # 2: dispersion
+LRLT - Flexible response # 2: dispersion
+LRHT - Flexible response # 2: dispersion
+HRLT - Flexible response # 2: dispersion
+MRHT - Flexible response # 2: dispersion
+HRLT - Flexible response # 2: dispersion
+LRHT - Flexible response # 2: dispersion
+LRMT - Flexible response # 2: dispersion
+MRLT - Flexible response # 2: dispersion
+MRMT - Flexible response # 2: dispersion
+HRHT - Flexible response # 2: dispersion
+HRMT - Flexible response # 2: dispersion
+LRLT - Flexible response # 2: dispersion
+HRHT - Flexible response # 2: dispersion
+MRLT - Flexible response # 2: dispersion
+LRMT - Flexible response # 2: dispersion
+MRHT - Flexible response # 2: dispersion
+LRLT - Flexible response # 2: dispersion
+HRMT - Flexible response # 2: dispersion
+LRHT - Flexible response # 2: dispersion
+HRLT - Flexible response # 2: dispersion
+MRMT - Flexible response # 2: dispersion
+MRMT - Flexible response # 2: dispersion
+HRLT - Flexible response # 2: dispersion
+LRMT - Flexible response # 2: dispersion
+MRLT - Flexible response # 2: dispersion
+MRHT - Flexible response # 2: dispersion
+LRLT - Flexible response # 2: dispersion
+HRHT - Flexible response # 2: dispersion
+HRMT - Flexible response # 2: dispersion
+LRHT - Flexible response # 2: dispersion
+HRMT - Flexible response # 2: dispersion
+MRLT - Flexible response # 2: dispersion
+MRHT - Flexible response # 2: dispersion
+HRLT - Flexible response # 2: dispersion
+LRHT - Flexible response # 2: dispersion
+MRMT - Flexible response # 2: dispersion
+LRLT - Flexible response # 2: dispersion
+LRMT - Flexible response # 2: dispersion
+HRHT - Flexible response # 2: dispersion
+HRLT - Flexible response # 2: dispersion
+MRHT - Flexible response # 2: dispersion
+LRLT - Flexible response # 2: dispersion
+MRMT - Flexible response # 2: dispersion
+LRHT - Flexible response # 2: dispersion
+LRMT - Flexible response # 2: dispersion
+HRHT - Flexible response # 2: dispersion
+MRLT - Flexible response # 2: dispersion
+HRMT - Flexible response # 2: dispersion
+MRLT - Flexible response # 2: dispersion
+LRHT - Flexible response # 2: dispersion
+HRLT - Flexible response # 2: dispersion
+MRMT - Flexible response # 2: dispersion
+LRLT - Flexible response # 2: dispersion
+LRMT - Flexible response # 2: dispersion
+MRHT - Flexible response # 2: dispersion
+HRMT - Flexible response # 2: dispersion
+HRHT - Flexible response # 2: dispersion
+LRMT - Fixed response # 1: response amplitude
+LRHT - Fixed response # 1: response amplitude
+HRLT - Fixed response # 1: response amplitude
+HRHT - Fixed response # 1: response amplitude
+MRMT - Fixed response # 1: response amplitude
+MRLT - Fixed response # 1: response amplitude
+HRMT - Fixed response # 1: response amplitude
+MRHT - Fixed response # 1: response amplitude
+LRLT - Fixed response # 1: response amplitude
+HRMT - Fixed response # 1: response amplitude
+LRLT - Fixed response # 1: response amplitude
+MRMT - Fixed response # 1: response amplitude
+MRLT - Fixed response # 1: response amplitude
+HRHT - Fixed response # 1: response amplitude
+LRMT - Fixed response # 1: response amplitude
+LRHT - Fixed response # 1: response amplitude
+HRLT - Fixed response # 1: response amplitude
+MRHT - Fixed response # 1: response amplitude
+HRMT - Fixed response # 1: response amplitude
+LRLT - Fixed response # 1: response amplitude
+LRHT - Fixed response # 1: response amplitude
+MRLT - Fixed response # 1: response amplitude
+MRHT - Fixed response # 1: response amplitude
+LRMT - Fixed response # 1: response amplitude
+HRHT - Fixed response # 1: response amplitude
+HRLT - Fixed response # 1: response amplitude
+MRMT - Fixed response # 1: response amplitude
+LRMT - Fixed response # 1: response amplitude
+MRLT - Fixed response # 1: response amplitude
+HRMT - Fixed response # 1: response amplitude
+HRHT - Fixed response # 1: response amplitude
+MRMT - Fixed response # 1: response amplitude
+MRHT - Fixed response # 1: response amplitude
+LRLT - Fixed response # 1: response amplitude
+LRHT - Fixed response # 1: response amplitude
+HRLT - Fixed response # 1: response amplitude
+MRHT - Fixed response # 1: response amplitude
+HRLT - Fixed response # 1: response amplitude
+LRHT - Fixed response # 1: response amplitude
+LRMT - Fixed response # 1: response amplitude
+MRLT - Fixed response # 1: response amplitude
+MRMT - Fixed response # 1: response amplitude
+HRHT - Fixed response # 1: response amplitude
+HRMT - Fixed response # 1: response amplitude
+LRLT - Fixed response # 1: response amplitude
+HRHT - Fixed response # 1: response amplitude
+MRLT - Fixed response # 1: response amplitude
+LRMT - Fixed response # 1: response amplitude
+MRHT - Fixed response # 1: response amplitude
+LRLT - Fixed response # 1: response amplitude
+HRMT - Fixed response # 1: response amplitude
+LRHT - Fixed response # 1: response amplitude
+HRLT - Fixed response # 1: response amplitude
+MRMT - Fixed response # 1: response amplitude
+MRMT - Fixed response # 1: response amplitude
+HRLT - Fixed response # 1: response amplitude
+LRMT - Fixed response # 1: response amplitude
+MRLT - Fixed response # 1: response amplitude
+MRHT - Fixed response # 1: response amplitude
+LRLT - Fixed response # 1: response amplitude
+HRHT - Fixed response # 1: response amplitude
+HRMT - Fixed response # 1: response amplitude
+LRHT - Fixed response # 1: response amplitude
+HRMT - Fixed response # 1: response amplitude
+MRLT - Fixed response # 1: response amplitude
+MRHT - Fixed response # 1: response amplitude
+HRLT - Fixed response # 1: response amplitude
+LRHT - Fixed response # 1: response amplitude
+MRMT - Fixed response # 1: response amplitude
+LRLT - Fixed response # 1: response amplitude
+LRMT - Fixed response # 1: response amplitude
+HRHT - Fixed response # 1: response amplitude
+HRLT - Fixed response # 1: response amplitude
+MRHT - Fixed response # 1: response amplitude
+LRLT - Fixed response # 1: response amplitude
+MRMT - Fixed response # 1: response amplitude
+LRHT - Fixed response # 1: response amplitude
+LRMT - Fixed response # 1: response amplitude
+HRHT - Fixed response # 1: response amplitude
+MRLT - Fixed response # 1: response amplitude
+HRMT - Fixed response # 1: response amplitude
+MRLT - Fixed response # 1: response amplitude
+LRHT - Fixed response # 1: response amplitude
+HRLT - Fixed response # 1: response amplitude
+MRMT - Fixed response # 1: response amplitude
+LRLT - Fixed response # 1: response amplitude
+LRMT - Fixed response # 1: response amplitude
+MRHT - Fixed response # 1: response amplitude
+HRMT - Fixed response # 1: response amplitude
+HRHT - Fixed response # 1: response amplitude
+LRMT - Fixed response # 2: response amplitude
+LRHT - Fixed response # 2: response amplitude
+HRLT - Fixed response # 2: response amplitude
+HRHT - Fixed response # 2: response amplitude
+MRMT - Fixed response # 2: response amplitude
+MRLT - Fixed response # 2: response amplitude
+HRMT - Fixed response # 2: response amplitude
+MRHT - Fixed response # 2: response amplitude
+LRLT - Fixed response # 2: response amplitude
+HRMT - Fixed response # 2: response amplitude
+LRLT - Fixed response # 2: response amplitude
+MRMT - Fixed response # 2: response amplitude
+MRLT - Fixed response # 2: response amplitude
+HRHT - Fixed response # 2: response amplitude
+LRMT - Fixed response # 2: response amplitude
+LRHT - Fixed response # 2: response amplitude
+HRLT - Fixed response # 2: response amplitude
+MRHT - Fixed response # 2: response amplitude
+HRMT - Fixed response # 2: response amplitude
+LRLT - Fixed response # 2: response amplitude
+LRHT - Fixed response # 2: response amplitude
+MRLT - Fixed response # 2: response amplitude
+MRHT - Fixed response # 2: response amplitude
+LRMT - Fixed response # 2: response amplitude
+HRHT - Fixed response # 2: response amplitude
+HRLT - Fixed response # 2: response amplitude
+MRMT - Fixed response # 2: response amplitude
+LRMT - Fixed response # 2: response amplitude
+MRLT - Fixed response # 2: response amplitude
+HRMT - Fixed response # 2: response amplitude
+HRHT - Fixed response # 2: response amplitude
+MRMT - Fixed response # 2: response amplitude
+MRHT - Fixed response # 2: response amplitude
+LRLT - Fixed response # 2: response amplitude
+LRHT - Fixed response # 2: response amplitude
+HRLT - Fixed response # 2: response amplitude
+MRHT - Fixed response # 2: response amplitude
+HRLT - Fixed response # 2: response amplitude
+LRHT - Fixed response # 2: response amplitude
+LRMT - Fixed response # 2: response amplitude
+MRLT - Fixed response # 2: response amplitude
+MRMT - Fixed response # 2: response amplitude
+HRHT - Fixed response # 2: response amplitude
+HRMT - Fixed response # 2: response amplitude
+LRLT - Fixed response # 2: response amplitude
+HRHT - Fixed response # 2: response amplitude
+MRLT - Fixed response # 2: response amplitude
+LRMT - Fixed response # 2: response amplitude
+MRHT - Fixed response # 2: response amplitude
+LRLT - Fixed response # 2: response amplitude
+HRMT - Fixed response # 2: response amplitude
+LRHT - Fixed response # 2: response amplitude
+HRLT - Fixed response # 2: response amplitude
+MRMT - Fixed response # 2: response amplitude
+MRMT - Fixed response # 2: response amplitude
+HRLT - Fixed response # 2: response amplitude
+LRMT - Fixed response # 2: response amplitude
+MRLT - Fixed response # 2: response amplitude
+MRHT - Fixed response # 2: response amplitude
+LRLT - Fixed response # 2: response amplitude
+HRHT - Fixed response # 2: response amplitude
+HRMT - Fixed response # 2: response amplitude
+LRHT - Fixed response # 2: response amplitude
+HRMT - Fixed response # 2: response amplitude
+MRLT - Fixed response # 2: response amplitude
+MRHT - Fixed response # 2: response amplitude
+HRLT - Fixed response # 2: response amplitude
+LRHT - Fixed response # 2: response amplitude
+MRMT - Fixed response # 2: response amplitude
+LRLT - Fixed response # 2: response amplitude
+LRMT - Fixed response # 2: response amplitude
+HRHT - Fixed response # 2: response amplitude
+HRLT - Fixed response # 2: response amplitude
+MRHT - Fixed response # 2: response amplitude
+LRLT - Fixed response # 2: response amplitude
+MRMT - Fixed response # 2: response amplitude
+LRHT - Fixed response # 2: response amplitude
+LRMT - Fixed response # 2: response amplitude
+HRHT - Fixed response # 2: response amplitude
+MRLT - Fixed response # 2: response amplitude
+HRMT - Fixed response # 2: response amplitude
+MRLT - Fixed response # 2: response amplitude
+LRHT - Fixed response # 2: response amplitude
+HRLT - Fixed response # 2: response amplitude
+MRMT - Fixed response # 2: response amplitude
+LRLT - Fixed response # 2: response amplitude
+LRMT - Fixed response # 2: response amplitude
+MRHT - Fixed response # 2: response amplitude
+HRMT - Fixed response # 2: response amplitude
+HRHT - Fixed response # 2: response amplitude
+LRMT - Fixed response # 3: response amplitude
+LRHT - Fixed response # 3: response amplitude
+HRLT - Fixed response # 3: response amplitude
+HRHT - Fixed response # 3: response amplitude
+MRMT - Fixed response # 3: response amplitude
+MRLT - Fixed response # 3: response amplitude
+HRMT - Fixed response # 3: response amplitude
+MRHT - Fixed response # 3: response amplitude
+LRLT - Fixed response # 3: response amplitude
+HRMT - Fixed response # 3: response amplitude
+LRLT - Fixed response # 3: response amplitude
+MRMT - Fixed response # 3: response amplitude
+MRLT - Fixed response # 3: response amplitude
+HRHT - Fixed response # 3: response amplitude
+LRMT - Fixed response # 3: response amplitude
+LRHT - Fixed response # 3: response amplitude
+HRLT - Fixed response # 3: response amplitude
+MRHT - Fixed response # 3: response amplitude
+HRMT - Fixed response # 3: response amplitude
+LRLT - Fixed response # 3: response amplitude
+LRHT - Fixed response # 3: response amplitude
+MRLT - Fixed response # 3: response amplitude
+MRHT - Fixed response # 3: response amplitude
+LRMT - Fixed response # 3: response amplitude
+HRHT - Fixed response # 3: response amplitude
+HRLT - Fixed response # 3: response amplitude
+MRMT - Fixed response # 3: response amplitude
+LRMT - Fixed response # 3: response amplitude
+MRLT - Fixed response # 3: response amplitude
+HRMT - Fixed response # 3: response amplitude
+HRHT - Fixed response # 3: response amplitude
+MRMT - Fixed response # 3: response amplitude
+MRHT - Fixed response # 3: response amplitude
+LRLT - Fixed response # 3: response amplitude
+LRHT - Fixed response # 3: response amplitude
+HRLT - Fixed response # 3: response amplitude
+MRHT - Fixed response # 3: response amplitude
+HRLT - Fixed response # 3: response amplitude
+LRHT - Fixed response # 3: response amplitude
+LRMT - Fixed response # 3: response amplitude
+MRLT - Fixed response # 3: response amplitude
+MRMT - Fixed response # 3: response amplitude
+HRHT - Fixed response # 3: response amplitude
+HRMT - Fixed response # 3: response amplitude
+LRLT - Fixed response # 3: response amplitude
+HRHT - Fixed response # 3: response amplitude
+MRLT - Fixed response # 3: response amplitude
+LRMT - Fixed response # 3: response amplitude
+MRHT - Fixed response # 3: response amplitude
+LRLT - Fixed response # 3: response amplitude
+HRMT - Fixed response # 3: response amplitude
+LRHT - Fixed response # 3: response amplitude
+HRLT - Fixed response # 3: response amplitude
+MRMT - Fixed response # 3: response amplitude
+MRMT - Fixed response # 3: response amplitude
+HRLT - Fixed response # 3: response amplitude
+LRMT - Fixed response # 3: response amplitude
+MRLT - Fixed response # 3: response amplitude
+MRHT - Fixed response # 3: response amplitude
+LRLT - Fixed response # 3: response amplitude
+HRHT - Fixed response # 3: response amplitude
+HRMT - Fixed response # 3: response amplitude
+LRHT - Fixed response # 3: response amplitude
+HRMT - Fixed response # 3: response amplitude
+MRLT - Fixed response # 3: response amplitude
+MRHT - Fixed response # 3: response amplitude
+HRLT - Fixed response # 3: response amplitude
+LRHT - Fixed response # 3: response amplitude
+MRMT - Fixed response # 3: response amplitude
+LRLT - Fixed response # 3: response amplitude
+LRMT - Fixed response # 3: response amplitude
+HRHT - Fixed response # 3: response amplitude
+HRLT - Fixed response # 3: response amplitude
+MRHT - Fixed response # 3: response amplitude
+LRLT - Fixed response # 3: response amplitude
+MRMT - Fixed response # 3: response amplitude
+LRHT - Fixed response # 3: response amplitude
+LRMT - Fixed response # 3: response amplitude
+HRHT - Fixed response # 3: response amplitude
+MRLT - Fixed response # 3: response amplitude
+HRMT - Fixed response # 3: response amplitude
+MRLT - Fixed response # 3: response amplitude
+LRHT - Fixed response # 3: response amplitude
+HRLT - Fixed response # 3: response amplitude
+MRMT - Fixed response # 3: response amplitude
+LRLT - Fixed response # 3: response amplitude
+LRMT - Fixed response # 3: response amplitude
+MRHT - Fixed response # 3: response amplitude
+HRMT - Fixed response # 3: response amplitude
+HRHT - Fixed response # 3: response amplitude
+LRMT - Fixed response # 4: response amplitude
+LRHT - Fixed response # 4: response amplitude
+HRLT - Fixed response # 4: response amplitude
+HRHT - Fixed response # 4: response amplitude
+MRMT - Fixed response # 4: response amplitude
+MRLT - Fixed response # 4: response amplitude
+HRMT - Fixed response # 4: response amplitude
+MRHT - Fixed response # 4: response amplitude
+LRLT - Fixed response # 4: response amplitude
+HRMT - Fixed response # 4: response amplitude
+LRLT - Fixed response # 4: response amplitude
+MRMT - Fixed response # 4: response amplitude
+MRLT - Fixed response # 4: response amplitude
+HRHT - Fixed response # 4: response amplitude
+LRMT - Fixed response # 4: response amplitude
+LRHT - Fixed response # 4: response amplitude
+HRLT - Fixed response # 4: response amplitude
+MRHT - Fixed response # 4: response amplitude
+HRMT - Fixed response # 4: response amplitude
+LRLT - Fixed response # 4: response amplitude
+LRHT - Fixed response # 4: response amplitude
+MRLT - Fixed response # 4: response amplitude
+MRHT - Fixed response # 4: response amplitude
+LRMT - Fixed response # 4: response amplitude
+HRHT - Fixed response # 4: response amplitude
+HRLT - Fixed response # 4: response amplitude
+MRMT - Fixed response # 4: response amplitude
+LRMT - Fixed response # 4: response amplitude
+MRLT - Fixed response # 4: response amplitude
+HRMT - Fixed response # 4: response amplitude
+HRHT - Fixed response # 4: response amplitude
+MRMT - Fixed response # 4: response amplitude
+MRHT - Fixed response # 4: response amplitude
+LRLT - Fixed response # 4: response amplitude
+LRHT - Fixed response # 4: response amplitude
+HRLT - Fixed response # 4: response amplitude
+MRHT - Fixed response # 4: response amplitude
+HRLT - Fixed response # 4: response amplitude
+LRHT - Fixed response # 4: response amplitude
+LRMT - Fixed response # 4: response amplitude
+MRLT - Fixed response # 4: response amplitude
+MRMT - Fixed response # 4: response amplitude
+HRHT - Fixed response # 4: response amplitude
+HRMT - Fixed response # 4: response amplitude
+LRLT - Fixed response # 4: response amplitude
+HRHT - Fixed response # 4: response amplitude
+MRLT - Fixed response # 4: response amplitude
+LRMT - Fixed response # 4: response amplitude
+MRHT - Fixed response # 4: response amplitude
+LRLT - Fixed response # 4: response amplitude
+HRMT - Fixed response # 4: response amplitude
+LRHT - Fixed response # 4: response amplitude
+HRLT - Fixed response # 4: response amplitude
+MRMT - Fixed response # 4: response amplitude
+MRMT - Fixed response # 4: response amplitude
+HRLT - Fixed response # 4: response amplitude
+LRMT - Fixed response # 4: response amplitude
+MRLT - Fixed response # 4: response amplitude
+MRHT - Fixed response # 4: response amplitude
+LRLT - Fixed response # 4: response amplitude
+HRHT - Fixed response # 4: response amplitude
+HRMT - Fixed response # 4: response amplitude
+LRHT - Fixed response # 4: response amplitude
+HRMT - Fixed response # 4: response amplitude
+MRLT - Fixed response # 4: response amplitude
+MRHT - Fixed response # 4: response amplitude
+HRLT - Fixed response # 4: response amplitude
+LRHT - Fixed response # 4: response amplitude
+MRMT - Fixed response # 4: response amplitude
+LRLT - Fixed response # 4: response amplitude
+LRMT - Fixed response # 4: response amplitude
+HRHT - Fixed response # 4: response amplitude
+HRLT - Fixed response # 4: response amplitude
+MRHT - Fixed response # 4: response amplitude
+LRLT - Fixed response # 4: response amplitude
+MRMT - Fixed response # 4: response amplitude
+LRHT - Fixed response # 4: response amplitude
+LRMT - Fixed response # 4: response amplitude
+HRHT - Fixed response # 4: response amplitude
+MRLT - Fixed response # 4: response amplitude
+HRMT - Fixed response # 4: response amplitude
+MRLT - Fixed response # 4: response amplitude
+LRHT - Fixed response # 4: response amplitude
+HRLT - Fixed response # 4: response amplitude
+MRMT - Fixed response # 4: response amplitude
+LRLT - Fixed response # 4: response amplitude
+LRMT - Fixed response # 4: response amplitude
+MRHT - Fixed response # 4: response amplitude
+HRMT - Fixed response # 4: response amplitude
+HRHT - Fixed response # 4: response amplitude
+
+0.00825761
+0.56297114
+0.84959998
+1.06311420
+0.00499096
+0.04297662
+0.88784559
+0.09177832
+0.50082273
+0.01586612
+1.44129580
+0.51651202
+1.06639510
+0.00561319
+0.92130256
+0.83671377
+0.02076238
+1.28426335
+1.31596001
+0.00280043
+0.01680532
+0.36664832
+1.51461060
+0.01115636
+0.03721054
+0.00506263
+1.47034823
+1.29012832
+1.09651729
+1.17117225
+1.40246253
+0.93617536
+0.50818393
+1.29778435
+1.24424953
+1.02850055
+1.57043359
+0.00559347
+1.48490138
+1.14465790
+1.01764753
+1.61922975
+1.09404391
+0.00465368
+1.01905949
+0.99519004
+0.92158935
+0.00518292
+0.79475491
+1.17323312
+1.20779449
+0.92627532
+0.90924184
+0.68756592
+0.90513295
+1.07535795
+1.00362290
+0.47028874
+0.71271047
+1.05195415
+0.01444793
+0.22925331
+0.10320570
+0.00383621
+1.33915314
+1.37534125
+0.17464297
+1.06856149
+0.85090566
+1.00148369
+1.03082112
+0.00458660
+1.28598239
+0.18446194
+1.38886604
+1.28214509
+0.78006514
+1.43972701
+0.01673907
+0.14797168
+0.00501298
+0.88473335
+0.80643235
+1.00505664
+1.03980104
+0.55276119
+0.91764422
+0.82208618
+0.78166447
+0.61729010
+1.52194715
+0.42873291
+0.29273954
+0.31518395
+0.00049717
+0.44864537
+0.00179373
+0.87140382
+0.00446258
+0.37851118
+0.29677197
+0.31552498
+0.42358792
+0.00055368
+0.01525179
+0.00206109
+0.24702074
+0.25811121
+0.27298989
+0.25411913
+0.26323363
+0.33990730
+0.32233243
+0.35577113
+0.20002596
+0.36159412
+0.30267142
+0.29476314
+0.31852663
+0.29490312
+0.27626047
+0.24423064
+0.27877865
+0.33364403
+0.30214874
+0.30659475
+0.37249184
+0.40665466
+0.30151460
+0.29372155
+0.28831338
+0.26070712
+0.30617451
+0.35314208
+0.29831768
+0.28181775
+0.27095958
+0.25023483
+0.00357511
+0.28063140
+0.28232758
+0.27460723
+0.27195948
+0.26697729
+0.28982256
+0.28146345
+0.26614154
+0.25551401
+0.26639177
+0.25269313
+0.16554237
+0.33361750
+0.19956866
+0.35356989
+0.27061710
+0.36071250
+0.35975536
+0.26428790
+0.25629982
+0.26502837
+0.24112822
+0.19299248
+0.25008212
+0.16466043
+0.26870407
+0.23249258
+0.29539470
+0.23019310
+0.17051313
+0.32398282
+0.28315716
+0.24668924
+0.22275799
+0.25947407
+0.22978382
+0.25248285
+0.25311637
+0.23642145
+0.23450829
+0.24511433
+0.47370894
+0.01512035
+0.01189181
+0.02010196
+0.20445569
+0.25590169
+0.05000510
+0.17569360
+0.15473959
+0.28563426
+0.03339834
+0.04209356
+0.03406421
+0.21989577
+0.06398818
+0.06695007
+0.22161533
+0.01638945
+0.01607748
+0.23351684
+0.17799665
+0.06664379
+0.01117052
+0.26404079
+0.20342588
+0.23441817
+0.01744088
+0.04157816
+0.02606237
+0.01884946
+0.08298587
+0.01222934
+0.03528112
+0.01475192
+0.02715592
+0.05180301
+0.01145483
+0.26560436
+0.03115317
+0.03877907
+0.03078369
+0.11673122
+0.03491334
+0.25508853
+0.02163350
+0.03047865
+0.02203231
+0.24871245
+0.05198943
+0.02448946
+0.02223153
+0.01810148
+0.01224164
+0.03329091
+0.03400939
+0.02134359
+0.02334204
+0.05295012
+0.03011573
+0.04869616
+0.21700741
+0.06606200
+0.20198472
+0.28649238
+0.05801785
+0.02341994
+0.07936761
+0.03644586
+0.03522516
+0.02806132
+0.03043368
+0.24035815
+0.02418600
+0.12593851
+0.01067649
+0.08950214
+0.02003819
+0.01490838
+0.22260870
+0.09441658
+0.23521622
+0.02822549
+0.03779468
+0.01556193
+0.03405948
+0.03437303
+0.02390617
+0.02108216
+0.02250519
+0.01886541
+2.27099485
+7.09146953
+5.45782742
+4.51917919
+2.23450649
+1.06187201
+1.85432296
+4.82109632
+1.28345053
+2.83214277
+5.89772751
+6.38244005
+4.27084744
+2.73718177
+0.17215236
+1.55210532
+0.03009218
+5.79391314
+6.59641319
+0.75735898
+0.07414280
+0.02521399
+2.80776044
+0.02469002
+0.04887841
+0.04382022
+5.90484288
+6.57420275
+6.88000135
+5.69497671
+6.75777126
+3.05927097
+0.01403261
+5.99281547
+5.90875550
+7.05763655
+3.00053938
+0.02060669
+6.07365718
+6.74750074
+6.79291144
+6.31770386
+2.83640427
+0.18378138
+5.80823436
+6.31813161
+6.19494833
+2.46421032
+0.17901957
+0.02860985
+6.52576053
+6.85188071
+4.89360115
+7.66877654
+6.46667803
+6.07356850
+5.72154598
+5.17613252
+7.46924799
+6.34133002
+0.04555333
+0.02718663
+0.06219321
+0.03735975
+7.53144072
+3.01676826
+0.01786154
+6.91045566
+7.12138301
+6.14839079
+5.83621697
+0.05851068
+6.87386422
+0.03781224
+5.93791413
+6.58172775
+2.60992144
+5.11738866
+0.04378484
+0.02242184
+0.94111096
+5.93985067
+6.23161083
+6.44391809
+5.60007484
+8.26459310
+7.27281243
+5.63930721
+6.42539117
+6.53004020
+0.22600242
+0.27674735
+0.22049573
+0.19640686
+0.15016058
+0.16458968
+0.17896359
+0.17104058
+0.17517503
+0.16652120
+0.20745320
+0.23214643
+0.18701009
+0.15758400
+0.16925622
+0.16257568
+0.17534770
+0.20392576
+0.21183721
+0.16006988
+0.13618311
+0.17187282
+0.19598468
+0.18851717
+0.16465888
+0.16833750
+0.19157910
+0.18726259
+0.19474462
+0.23519660
+0.21679396
+0.27915202
+0.21698934
+0.26750625
+0.22619430
+0.20255500
+0.18391159
+0.18634910
+0.20828096
+0.22100537
+0.27040342
+0.17213371
+0.20314750
+0.17874047
+0.30029054
+0.26174584
+0.26609608
+0.17180968
+0.21159041
+0.21432718
+0.24030877
+0.27706848
+0.27521836
+0.26263085
+0.26403858
+0.24176620
+0.25160193
+0.48780476
+0.26656496
+0.24683677
+0.16682565
+0.24546302
+0.16637081
+0.19202866
+0.17954461
+0.18610906
+0.19324248
+0.24028137
+0.23768429
+0.25346874
+0.23361743
+0.16810538
+0.24843295
+0.20548453
+0.22700865
+0.19244944
+0.29516045
+0.23145714
+0.17088281
+0.19127891
+0.16830107
+0.26746705
+0.28530674
+0.25986780
+0.20839371
+0.32006887
+0.22970639
+0.27634736
+0.26859258
+0.31825833
+1.39072464
+4.15409331
+3.83719195
+4.02069072
+0.95995076
+1.70269542
+1.11326842
+1.66050182
+0.85986424
+1.96091569
+3.75907353
+3.66187360
+0.70902631
+1.11421614
+3.44827747
+0.98000938
+2.21036250
+4.28629592
+4.32708903
+3.56108264
+2.43678849
+3.76448170
+0.32716359
+3.70603812
+1.75776559
+4.21439007
+3.94262084
+4.54036072
+3.60983436
+3.86950862
+3.67762754
+0.94163111
+3.70801232
+3.66809351
+3.77510694
+3.57668835
+0.55125856
+3.68506273
+3.70872462
+4.16632644
+4.39239867
+3.60268493
+0.47542476
+4.46133352
+3.79331829
+4.33437789
+4.30193091
+3.96250027
+3.07645278
+4.29498564
+4.40691349
+4.06082786
+3.66888669
+4.04196919
+3.93339017
+3.85268383
+3.53669436
+4.18921761
+3.75784412
+4.28215109
+2.36775087
+4.34128610
+4.37392785
+4.36233515
+4.02302479
+0.50869301
+3.81047052
+4.42302459
+4.14153344
+4.10110598
+3.80899586
+3.55381240
+4.28434318
+3.57263239
+4.24791916
+3.79548041
+0.42247741
+4.30979574
+2.54402180
+4.10987388
+3.83150588
+4.18431526
+3.80885862
+4.31091687
+3.78237056
+4.25843016
+4.46813646
+3.60325442
+4.20304209
+3.79792316
+5.83350551
+0.00686640
+0.61594389
+0.00494317
+0.00306395
+1.11442399
+0.02196967
+0.01608066
+0.07315996
+1.71297266
+0.00367241
+0.75087829
+0.06114098
+0.00356878
+0.01022513
+0.02919216
+0.00715693
+0.00386461
+0.00966196
+0.00272515
+0.01456122
+0.00385909
+0.01096088
+0.00482487
+0.01529844
+0.00259399
+0.00370058
+0.00427108
+0.33044570
+0.00460102
+0.00241897
+0.00876368
+0.00249632
+0.00320305
+0.00326336
+0.42239447
+0.01161682
+0.00279801
+0.00469264
+0.15768306
+0.00997061
+0.00327014
+0.02194024
+0.00232334
+0.00496759
+0.00381439
+0.00669327
+0.00297856
+0.01473251
+0.00422754
+0.01223562
+0.09410624
+0.00142246
+0.39275025
+0.20170373
+0.05934410
+0.00351224
+0.00353267
+0.26875058
+0.00321956
+0.00709773
+0.00187904
+0.01051905
+0.00210730
+0.28006182
+0.02015484
+0.00264642
+0.00684650
+0.25724701
+0.00560347
+0.00290156
+0.00260354
+0.00333300
+0.00406383
+0.00948845
+0.00427145
+0.01052498
+0.00235739
+0.00977540
+0.00240817
+0.00252453
+0.00254787
+0.00899541
+0.00249461
+0.00219617
+0.33438689
+0.10585590
+0.00314398
+0.00259107
+0.11830640
+0.77967645
+0.77967645
+0.77967645
+0.77967645
+4.45730848
+2.07931681
+6.35388539
+0.77967645
+4.58710950
+0.77967645
+0.77967645
+0.77967645
+1.95038128
+8.90135789
+0.77967645
+5.86335087
+2.30397104
+0.77967645
+0.77967645
+0.83477542
+3.11633388
+0.77967645
+2.83800872
+0.77967645
+3.54450099
+0.95275648
+0.77967645
+0.77967645
+0.00369268
+0.77967645
+0.77967645
+1.77792609
+1.34241608
+0.77967645
+0.77967645
+0.77967645
+1.85579167
+1.02516757
+0.77967645
+0.77967645
+0.77967645
+0.77967645
+2.22695496
+0.77967645
+0.77967645
+0.77967645
+0.00427046
+0.77967645
+2.64657970
+0.85914342
+0.00575681
+0.00404688
+0.77967645
+0.00386274
+0.00468432
+0.00294803
+0.00320009
+0.04926296
+0.00426926
+0.77967645
+1.65778667
+0.84940708
+1.88366191
+1.03516830
+0.00567227
+2.06990775
+0.85425227
+0.77967645
+0.00438259
+0.77967645
+0.77967645
+0.87837311
+0.00474157
+0.93869384
+0.77967645
+0.77967645
+1.27288309
+0.77967645
+1.29760059
+1.14042117
+0.77944663
+0.77967645
+0.77967645
+0.00411787
+0.77967645
+0.00376675
+0.77967645
+0.77967645
+0.77967645
+0.77967645
+0.14993449
+0.00389593
+0.14769879
+0.23491191
+0.14769879
+0.14769879
+0.14769879
+0.94841991
+0.14769879
+0.88659977
+0.00630709
+0.14769879
+0.14769879
+0.14769879
+0.14769879
+0.14769879
+0.14769879
+0.14769879
+0.14769879
+0.14769879
+0.14769879
+0.14769879
+0.14769879
+0.84549186
+0.14769879
+0.14769879
+0.14769879
+0.01386118
+0.14769879
+0.00336177
+0.00315539
+0.14769879
+0.14769879
+0.00471711
+0.00662450
+0.00362945
+0.14769879
+0.14769879
+0.00575349
+0.00484405
+0.00551881
+0.01888321
+0.14769879
+0.99856671
+0.00426035
+0.00594290
+0.14769879
+0.14769879
+0.14769879
+0.14769879
+0.14769879
+0.14769879
+0.00581933
+0.14769879
+0.14769879
+0.14769879
+0.14769879
+0.14769879
+0.14769879
+0.00919904
+0.14769879
+0.14769879
+0.14769879
+0.14769879
+0.14769879
+0.14769879
+0.14769879
+0.14769879
+0.14769879
+0.00499531
+0.14769879
+0.14769879
+0.14769879
+0.14769879
+0.01143659
+0.00711818
+0.14769879
+0.05505390
+0.14769879
+0.14769879
+0.14769879
+0.00785704
+0.14769879
+0.14769879
+0.00713547
+0.14769879
+0.00344862
+0.14769879
+0.14769879
+0.14769879
+0.53025227
+0.53025227
+0.00072495
+0.53025227
+0.53025227
+0.53025227
+0.53025227
+0.53025227
+0.53025227
+0.53025227
+0.53025227
+0.00248597
+0.53025227
+0.53025227
+0.86996892
+0.53025227
+0.53025227
+0.01653310
+0.00460640
+0.53025227
+0.53025227
+1.09659170
+0.53025227
+0.53025227
+0.53025227
+0.53025227
+0.00412491
+0.53025227
+0.53025227
+0.53025227
+0.53025227
+0.53025227
+0.53025227
+0.53025227
+0.53025227
+0.53025227
+0.53025227
+0.53025227
+0.53025227
+0.53025227
+0.53025227
+0.53025227
+0.53025227
+0.53025227
+0.53025227
+0.53025227
+0.53025227
+0.59087161
+0.53025227
+0.53025227
+0.53025227
+0.53025227
+0.53025227
+0.53025227
+0.53025227
+0.53025227
+0.53025227
+0.53025227
+0.53025227
+0.53025227
+0.53025227
+0.53025227
+0.53025227
+0.53025227
+0.53025227
+0.53025227
+0.53025227
+0.00592355
+0.53025227
+0.53025227
+0.00379308
+0.53025227
+0.53025227
+0.53025227
+0.53025227
+0.53025227
+0.53025227
+0.53025227
+0.53025227
+0.53025227
+0.53025227
+0.53025227
+0.00393858
+0.53025227
+0.53025227
+0.53025227
+0.53025227
+0.00286842
+0.00367964
+0.00222451
+
+
