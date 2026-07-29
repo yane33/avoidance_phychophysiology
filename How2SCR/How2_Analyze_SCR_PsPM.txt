@@ -1,0 +1,51 @@
+How to analyze SCR data using PsPM
+by Anneloes Hulsman, February 2026
+
+1. Download and install PsPM
+https://bachlab.github.io/PsPM/
+For additional information, tutorials, and forum see link above
+
+
+2. Think about your model
+What do you want to model? Which events/which conditions? Are your events fixed/flexible? 
+In this paper I have specified these decisions for a previous version of the Fearful Avoidance Task:
+https://pubmed.ncbi.nlm.nih.gov/33422745/
+
+
+3. Create a conditions file (script = FA_fMRI_conditions.)
+This file contains information on which condition is presented in which trial
+The script FA_fMRI_conditions.m uses a marker file (.vmrk) to derive which condition was presented in which trial number. If this information is in your behavioural output file (e.g., in a text file) you do not have to use a marker file to derive this information. Your conditions.mat file should contain the following information: for each condition you want to include in your model, it needs to know in which trial number it occurred (see Examples folder: condition_sub005 for an example: e.g. for the condition low reward-low threat (LRLT), the conditions.mat file has a cell containing the following numbers [9	11	20	34	45	50	60	70	75	86]. These are all the trial numbers that the LRLT condition was presented. 
+
+
+4. Create a timings file (script = FA_fMRI_timings.m)
+This file contains information on the onsets and offsets of the events you want to include in your model
+* If an event is flexible, you specify the onset in the first column and the offset in the second column
+* If an event is fixed, you only specify the onset
+* If an event did not occur in a trial, the value of that cell is -1 (e.g., in each trial of the FAT, you only get 1 of the 3 possible outcomes. If the participant got a positive outcome in a trial, you specify the onset of the positive outcome; the onset of the negative and neutral outcome will be -1 as they did not receive these outcomes). This is also the case for responses: if participants responded in time, you will define the onset of their response; if they did not respond at all, the onset will be -1). See examples folder: timing_sub005.mat
+
+Similar to step 3: in order to create this timings file, I used a marker file (.vmrk) to derive the onsets/offsets of events. If you have specified this in your behavioural output, you can also use the behavioural output to derive this.
+
+NOTE ON STEP 3 AND 4: IN ORDER FOR PsPM TO WORK IT'S IMPORTANT TO NAME THE CELLS {}events AND {}conditions!!!
+
+
+5. Run PsPM (wrapper scrpit = FA_fMRI_SCRanalyses)
+There are different analysis steps:
+a. Load SCR data in PsPM. In this study my SCR data was recorded in .eeg format, but PsPM is also able to handle different formats. I'm not sure if it is also able to load PLUX output directly. Maybe you first need to transform your data. I know there are ways to transform PLUX output to .eeg files (e.g., using BrainVision analyzer; Google is your friend). 
+b. After loading SCR data in PsPM, you will get a PsPM_...mat file that contains the data (the resulting file is pspm_sub005.mat, see examples folder). I did not want to have this file in the same folder as my raw data, so I moved it to a different folder.
+c. Run 1st level model in PsPM
+Depending on your design (conditions/events) you will have to change things here
+The resulting file is 1st_level_model_sub005.mat (see examples folder)
+d. Export 1st level betas
+For each subject, you will get a .txt file that contains the condition, the type of event you modeled (fixed/flexible), and the amplitude, peak latency, dispersion, response amplitude. The order of this output is similar to what you defined (i.e., 1st line = trial 1, 2nd line = trial 2, etc.). The resulting file is stats_sub005.txt (see examples folder).
+
+
+6. Run 2nd level model
+You can enter the betas resulting from the model in any type of statistics software
+
+
+Other considerations:
+- You might need to trim your data. The current study did not consist of multiple blocks, so I did not have to trim the data
+- Things might work differently in newer version of PsPM - there might be better alternatives. Always read the manual to find the most up-to-date / best way to analyse your data.
+
+
+ 
