@@ -45,5 +45,7 @@ Bodily freezing or balance board: The signals were used to derive time series of
 
 Freezing is a defensive threat reaction characterized by immobility and heart rate deceleration (bradycardia), resulting from relative dominance of parasympathetic over sympathetic arousal in the autonomic nervous system10,11. There is ample evidence from postural, cardiac, and neural analyses that humans as well as animals freeze when experiencing threat
 
-Individual difference in anxiety and depression:
+Individual difference in anxiety and depression
+
+Data analysis: Physiological preprocessing in matlab and the later statistical analysis in R
 
